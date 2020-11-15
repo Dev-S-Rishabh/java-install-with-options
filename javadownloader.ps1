@@ -1,3 +1,5 @@
+# This script installs and enable all the necessary items for installing and using java script I am Rishabh Singh presenting you my creation.Thank you for using it(Smily Emoji).
+#     
 $tweaks = @(
 	"RequireAdmin",
     "CreateRestorePoint"
